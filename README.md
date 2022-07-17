@@ -7,4 +7,4 @@
   [위 문서가 이해가 안된다면...](https://developer.mozilla.org/ko/docs/Web/JavaScript/Closures)  
  
  
-* [Browser Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)  
+* [Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)  
